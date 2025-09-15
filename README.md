@@ -167,5 +167,5 @@ The dashboard aims to:
 
 Screenshot/ Demo of the given Dashboard:
 
-![Dashboard Screenshot](Screenshots/dashboard.png)
+![Dashboard Screenshot](https://github.com/Govind-Kumar02/SuperStore-Sales-Dashboard/blob/main/Snapshot%20of%20SuperStore%20Sales%20Dashboard.png)
 
