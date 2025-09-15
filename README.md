@@ -164,3 +164,8 @@ The dashboard aims to:
 ✅ Improved skills in data cleaning, DAX calculations, and interactive reporting.
 
 ✅ Produced a professional BI dashboard suitable for portfolio and business use.
+
+Screenshot/ Demo of the given Dashboard:
+
+![Dashboard Screenshot](Screenshots/dashboard.png)
+
